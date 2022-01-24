@@ -1,11 +1,10 @@
-## my name is Ruslan and i love code something (but i don't always succeed...)
+## My name is Ruslan and I love to code something
 
-- i am Libertarian from Anapa, now i am 18 years old and in the last grade of school
-- i like Go, computers and good docs
-- i don't want to get higher education at the university **now**, i choose self education and job searching
-- i will be very happy if you call me for an interview or look at my code and tell me what should i learn...
+- I like Go, computers and good docs.
+- I don't want to get higher education at the university **now**, I choose self education and job searching.
+- I will be very happy if you call me for an interview or let me take a look at your code.
 
-thank you for reading this! (>~<)
+Thank you for reading this.
 
 ## weekly info about my does
 <!--START_SECTION:waka-->
@@ -17,3 +16,5 @@ go.mod           16 mins         ▒░░░░░░░░░░░░░░�
 textmate         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
+
+> Currently free for hire, try to catch me!
