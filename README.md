@@ -9,11 +9,11 @@ Thank you for reading this.
 ## weekly info about my does
 <!--START_SECTION:waka-->
 ```text
-Go         7 hrs 40 mins   ██████████████████▓░░░░░░   74.46 % 
-HTML       2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Markdown   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Makefile   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-SQL        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Go         6 hrs 29 mins   ████████████████████░░░░░   80.47 % 
+HTML       1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Markdown   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Makefile   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+SQL        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 <!--END_SECTION:waka-->
 
