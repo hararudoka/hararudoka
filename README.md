@@ -9,9 +9,9 @@ Thank you for reading this.
 ## weekly info about my does
 <!--START_SECTION:waka-->
 ```text
-Go               3 hrs 49 mins   ██████████████████████▒░░   88.71 % 
-YAML             25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Makefile         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Go               4 hrs 26 mins   ██████████████████████▓░░   90.11 % 
+YAML             25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Makefile         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
 
