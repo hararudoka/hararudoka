@@ -1,4 +1,4 @@
-## My name is Ruslan and I love to code something
+## Russia's invasion of Ukraine is unacceptable. As a citizen of the Russian Federation, I order Vladimir Putin to stop the genocide of the Ukrainian people!
 
 - I like Go, computers and good docs.
 - I don't want to get higher education at the university **now**, I choose self education and job searching.
