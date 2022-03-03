@@ -10,11 +10,8 @@ Thank you for reading this.
 <!--START_SECTION:waka-->
 
 ```text
-Go               5 hrs 13 mins   ████████████████████████░   95.60 %
-SQL              11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Go     4 hrs 42 mins   █████████████████████████   99.89 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
