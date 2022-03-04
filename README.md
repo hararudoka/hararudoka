@@ -10,8 +10,12 @@ Thank you for reading this.
 <!--START_SECTION:waka-->
 
 ```text
-Go     4 hrs 42 mins   █████████████████████████   99.89 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Go               8 hrs 54 mins   ███████████████████████▒░   93.92 %
+YAML             22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+go.mod           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Makefile         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
