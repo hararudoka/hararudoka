@@ -1,4 +1,4 @@
-## Russia's invasion of Ukraine is unacceptable. As a citizen of the Russian Federation, I order Vladimir Putin to stop the genocide of the Ukrainian people!
+## Hello on my GitHub page!
 
 - I like Go, computers and good docs.
 - I don't want to get higher education at the university **now**, I choose self education and job searching.
