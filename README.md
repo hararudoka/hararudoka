@@ -10,10 +10,10 @@ Thank you for reading this.
 <!--START_SECTION:waka-->
 
 ```text
-Go               23 hrs 53 mins  ██████████████████████▒░░   88.70 %
-YAML             1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Markdown         1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go               15 hrs 54 mins  █████████████████████▒░░░   85.92 %
+YAML             1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Markdown         1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
