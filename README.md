@@ -10,10 +10,10 @@ Thank you for reading this.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr 7 mins     ███████████████████████░░   91.71 %
-Go         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown   41 mins         █████████████████████▓░░░   87.15 %
+Go         6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
