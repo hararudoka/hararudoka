@@ -10,9 +10,8 @@ Thank you for reading this.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   19 mins         ███████████████████████▒░   93.49 %
-Go         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+HTML         1 hr 24 mins    ████████▒░░░░░░░░░░░░░░░░   33.29 %
+Other        1 hr 1 min      ██████░░░░░░░░░░░░░░░░░░░   24.16 %
 ```
 
 <!--END_SECTION:waka-->
