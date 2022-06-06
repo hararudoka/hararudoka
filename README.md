@@ -10,11 +10,8 @@ Thank you for reading this.
 <!--START_SECTION:waka-->
 
 ```text
-Go          3 hrs 58 mins   ████████████████████████░   96.30 %
-Text        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-INI         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Go     2 hrs 25 mins   ███████████████████████▓░   94.34 %
+Text   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
 ```
 
 <!--END_SECTION:waka-->
