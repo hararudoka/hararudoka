@@ -10,8 +10,11 @@ Thank you for reading this.
 <!--START_SECTION:waka-->
 
 ```text
-Go         14 mins         ████████████████████████▒   96.82 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Go           14 mins         ███████████████████████▒░   92.90 %
+Properties   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
