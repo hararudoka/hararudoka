@@ -10,8 +10,7 @@ Thank you for reading this.
 <!--START_SECTION:waka-->
 
 ```text
-YAML         33 mins         ██████████████▓░░░░░░░░░░   58.29 %
-Other        15 mins         ███████░░░░░░░░░░░░░░░░░░   27.52 %
+Other        2 hrs 29 mins   ███████████████████▒░░░░░   77.59 %
 ```
 
 <!--END_SECTION:waka-->
