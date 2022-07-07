@@ -10,8 +10,8 @@ Thank you for reading this.
 <!--START_SECTION:waka-->
 
 ```text
-Kconfig   3 hrs 15 mins   ████████████████████▓░░░░   82.81 %
-BC        40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+Kconfig   2 hrs 36 mins   ████████████████████░░░░░   79.42 %
+BC        40 mins         █████░░░░░░░░░░░░░░░░░░░░   20.58 %
 ```
 
 <!--END_SECTION:waka-->
