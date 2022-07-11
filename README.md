@@ -10,7 +10,8 @@ Thank you for reading this.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   2 mins          █████████████░░░░░░░░░░░░   52.22 %
+Go         2 mins          ████████████░░░░░░░░░░░░░   47.78 %
 ```
 
 <!--END_SECTION:waka-->
